@@ -1,0 +1,10 @@
+FAILED tests/test_external.py::test_manifest_hashes_match_every_file
+FAILED tests/test_external.py::test_no_unlisted_file_in_external
+FAILED tests/test_external.py::test_manifest_records_source_license_revision_seed
+FAILED tests/test_external.py::test_sample_is_the_documented_seeded_draw_and_keeps_dataset_labels
+FAILED tests/test_external.py::test_raw_label_to_attack_mapping_is_unchanged
+FAILED tests/test_external.py::test_external_crash_is_fail_closed_not_skipped
+FAILED tests/test_external.py::test_fake_blind_guard_misses_every_external_attack
+FAILED tests/test_external.py::test_recorded_external_predictions_cover_the_sample_and_labels_agree
+FAILED tests/test_external.py::test_readme_external_table_matches_recorded_predictions_and_misses_file
+9 failed, 2 passed in 0.18s

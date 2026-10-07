@@ -1,0 +1,12 @@
+# url https://huggingface.co/datasets/deepset/prompt-injections
+# revision 4f61ecb038e9c3fb77e21034b22511b523772cdd
+# license apache-2.0 (card front matter) and cc-by-4.0 (card dataset_info); both permissive, attribution given in README
+# seed 20261004
+# sample-size 500
+# sampling sorted(random.Random(seed).sample(range(len(rows.jsonl)), sample-size)), rows.jsonl order = train then test
+# language the dataset gives no per-language field, so no per-language split is reported
+file	sha256	rows	note
+deepset-prompt-injections/train.parquet	2e10bc7ab30f542c97e4e83e2a5683000b5057d25ec10908784c631d44124c04	546	raw download
+deepset-prompt-injections/test.parquet	39ac797cabc157eeed58435a08593b2952bb6cb16fc394a2d383f447cc7b246e	116	raw download
+deepset-prompt-injections/rows.jsonl	c9711d3f5c5db88e3064c2d1ce31600293c5edb52438301fc8d592847208334e	662	all rows, dataset labels
+deepset-prompt-injections/sample.jsonl	dfbf350ba578a406f0f64525708f2b7561da4e32a7b3c336db1edb75d69fe6a4	500	seeded sample scored

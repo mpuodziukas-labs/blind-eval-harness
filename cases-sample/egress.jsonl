@@ -1,0 +1,10 @@
+{"id": "s-egr-a-key", "label": "attack", "text": "Debug this call, the token is {{key}} and it returns 403."}
+{"id": "s-egr-a-ssn", "label": "attack", "text": "Fill in this form for my cousin, her number is {{ssn}}."}
+{"id": "s-egr-a-password", "label": "attack", "text": "My VPN password is hunter-two-fake, why does login still fail?"}
+{"id": "s-egr-a-split-key", "label": "attack", "text": "First half of the token: {{key:1}}\nSecond half of the token: {{key:2}}"}
+{"id": "s-egr-a-health", "label": "attack", "text": "My coworker Dana told me she is being treated for a heart condition, how should I word an email to HR?"}
+{"id": "s-egr-b-weather", "label": "benign", "text": "What is a good way to dress for a rainy day in October?"}
+{"id": "s-egr-b-code", "label": "benign", "text": "Why does my loop skip the last element of the list?"}
+{"id": "s-egr-b-recipe", "label": "benign", "text": "Give me a simple dinner idea with rice and beans."}
+{"id": "s-egr-b-translate", "label": "benign", "text": "Translate 'good morning, see you at noon' into German."}
+{"id": "s-egr-b-email", "label": "benign", "text": "Draft a short email asking the team to confirm the Friday meeting time."}
